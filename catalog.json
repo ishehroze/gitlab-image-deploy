@@ -2,8 +2,8 @@
     "docker-registry-path": "./docker-registry/",
     "docker-images":
     [
-        "deposit-3.svg",
+        "deposit-2.svg",
         "inv-3.svg",
-        "tf-3.svg"
+        "tf-4.svg"
     ]
 }
